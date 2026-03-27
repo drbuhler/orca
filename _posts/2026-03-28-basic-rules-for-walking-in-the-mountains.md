@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Basic Rules For Walking In The Mountains"
-date:   2018-01-09
+date:   2026-03-28
 featured_image: Mountain.jpg
 tags: [travel, photography]
 ---
