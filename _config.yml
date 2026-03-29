@@ -31,11 +31,11 @@ sass:
 # Site navigation - each item must have a title and a url.
 navigation:
   - text: Front Page 
-    url: /orca/
+    url: /
   - text: The Property
-    url: /orca/about/
+    url: /about/
   - text: The Team 
-    url: /orca/team/
+    url: /team/
 
 # Author information - author info at the bottom of the post
 author_name: "Dionysius Buhler"
