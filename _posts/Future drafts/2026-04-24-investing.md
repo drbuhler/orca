@@ -2,7 +2,7 @@
 layout: post
 title:  "Work where you must; live in Morro Bay"
 date:   2026-04-24
-featured_image: surfing.jpg
+featured_image: https://upload.wikimedia.org/wikipedia/commons/f/fc/Morro_Bay%2C_CA_Sandspit_Coastal_Cleanup_Day_%28CCD%29%2C_Saturday%2C_September_17%2C_2011_%286157313339%29.jpg
 tags: [Morro Bay]
 ---
 

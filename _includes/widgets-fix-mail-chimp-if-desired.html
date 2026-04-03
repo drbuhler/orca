@@ -1,10 +1,20 @@
-<aside class="footer-widgets">
+<aside class="footer-widgets2">
 
     {% if site.mailchimp_url %}
     <div id="footer-fullwidth" class="footer-fullwidth">
-
-     <h2> Want to keep in touch? </h2>
-                <p>Email us at dionysiusbuhler@gmail.com and we'll keep you posted as the project reaches the finish line -- no spam!</p>
+        <section class="widget widget-subscribe">
+            <div class="inner">
+                <h2 class="widget-title">{{ site.title }} Want to keep in touch? </h2>
+                <p>Email dionysiusbuhler@gmail.com and we'll keep you posted as the project reaches the finish line -- no spam!</p>
+                <!-- Begin MailChimp Signup Form -->
+                <div id="mc_embed_signup">
+                    <form action="{{ site.mailchimp_url }}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                        <label for="mce-EMAIL" class="screen-reader-text">Email Address</label>
+                        <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+                        <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+                    </form>
+                </div>
+                <!--End mc_embed_signup-->
             </div><!-- .inner -->
         </section><!-- .widget -->
     </div><!-- .footer-fullwidth -->

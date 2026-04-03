@@ -2,7 +2,7 @@
 layout: post
 title:  "Finish Line "
 date:   2026-03-29
-featured_image: Mountain.jpg
+featured_image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Morro_Bay%2C_California_04.JPG/1920px-Morro_Bay%2C_California_04.JPG?_=20150820202844
 tags: [travel, photography]
 ---
 
