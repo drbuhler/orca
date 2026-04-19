@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Local vibes"
-date:   2026-04-17
+date:   2026-04-17-restaurants.md
 featured_image: posts.png
-tags: [Morro Bay]
+tags: [Morro Bay, Demo]
 ---
 
 This week was more about Demo. 
@@ -13,6 +13,8 @@ We're restoring the home by preserving its modern artistic charm.
 This is a one-of-a-kind custom home. There is *nothing* like it, here or anywhere. 
 
 The original builder and his wife loved trapezoids, triangles, rhomboids, and fun creative angles. 
+
+
 
 There is a very specific kind of magic that happens on the Morro Bay Embarcadero right around golden hour. 
 
