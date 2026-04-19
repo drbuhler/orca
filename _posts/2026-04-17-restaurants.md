@@ -1,10 +1,18 @@
 ---
 layout: post
 title:  "Local vibes"
-date:   2026-04-10
-featured_image: https://upload.wikimedia.org/wikipedia/commons/f/fc/Morro_Bay%2C_CA_Sandspit_Coastal_Cleanup_Day_%28CCD%29%2C_Saturday%2C_September_17%2C_2011_%286157313339%29.jpg
+date:   2026-04-17
+featured_image: posts.png
 tags: [Morro Bay]
 ---
+
+This week was more about Demo. 
+
+We're restoring the home by preserving its modern artistic charm.
+
+This is a one-of-a-kind custom home. There is *nothing* like it, here or anywhere. 
+
+The original builder and his wife loved trapezoids, triangles, rhomboids, and fun creative angles. 
 
 There is a very specific kind of magic that happens on the Morro Bay Embarcadero right around golden hour. 
 
@@ -12,7 +20,7 @@ The fishing boats are tying up for the evening, the fog is rolling back just eno
 
 Morro Bay’s culinary scene punches way above its weight class! 
 
-This is a working fishing village, dont' forget. 
+This is a working fishing village, don't forget. 
 
 So the seafood on your plate was likely swimming in the Pacific just hours earlier. From slurping down fresh, locally farmed oysters at Tognazzini's Dockside to grabbing world-class fish and chips at the Galley Seafood Grill, the Embarcadero is a foodie’s paradise.
 
