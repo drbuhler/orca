@@ -2,7 +2,7 @@
 layout: post
 title:  "Local vibes"
 date:   2026-04-17-restaurants.md
-featured_image: posts.png
+featured_image: plans.png
 tags: [Morro Bay, Demo]
 ---
 
@@ -16,10 +16,10 @@ The original builder and his wife loved trapezoids, triangles, rhomboids, and fu
 
 We are planning to submit architectural plans in a week or two. 
 
-After moving junk out, my brother and I are headed to the Embarcadero. There's a special kind of magic right around golden hour. 
-
 <!--more-->
 
+
+After moving junk out, my brother and I are headed to the Embarcadero. There's a special kind of magic right around golden hour. 
 
 The fishing boats are tying up for the evening, the fog is rolling back just enough to let the sun hit Morro Rock, and the smell of fresh clam chowder is drifting down the waterfront.
 
