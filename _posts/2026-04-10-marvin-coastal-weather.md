@@ -8,23 +8,29 @@ tags: [Morro Bay]
 
 Guess who I got to meet today? Marvin, the original owner and builder of this beautiful house!
 
-A gem of a man. 
+What a gem!
 
 ![Marvin](http://www.498orca.com/images/posts/marvin.jpg)
 
-We finished up the poly wrap removal. Oh the wrap!
+We finished up the poly wrap removal. Oh the wrap! It was quite a process. Many neighbors stopped by to thank us. 
 
-One neighbor called it a 'ghost ship'.
+One neighbor called it a 'ghost ship'. It flapped in the breeze like the sails of a pirate ship in a storm. 
 
-In this post I'd like to reflect on Morro Bay's nature sanctuary. 
+Hilarious!
 
 
-# Why is Morro Bay  the Central Coast’s Best-Kept Secret for Outdoor Lovers? 
+
+
+In this post, I'd like to reflect on Morro Bay's nature sanctuary. 
+
+<!--more-->
+
+
+## Why is Morro Bay  the Central Coast’s Best-Kept Secret for Outdoor Lovers? 
 
 
 A lot of CA beaches are crowded. But the central coast is tucked away and hidden from the bustle. 
 
-<!--more-->
 
 Guarded by the iconic Morro Rock (often called the "Gibraltar of the Pacific"), this town is an  playground for the outdoors. 
 
