@@ -10,6 +10,8 @@ Guess who I got to meet today? Marvin, the original owner and builder of this be
 
 A gem of a man. 
 
+![Marvin](/marvin.jpg)
+
 We finished up the poly wrap removal. Oh the wrap!
 
 One neighbor called it a 'ghost ship'.
