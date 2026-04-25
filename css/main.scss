@@ -964,4 +964,12 @@ ul.search-results {
     .author-image+.author-details {
         padding-left: 0;
     }
+
+    body {
+  cursor: url('/images/orca-cursor.cur'), auto;
+}
+
+a, button {
+  cursor: url('/images/orca-cursor-pointers.cur'), pointer;
+}
 }
