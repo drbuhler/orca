@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gallery
+title: Gallery 2026 (Jan - Apr)
 permalink: /gallery/
 description: Chronicles of the journey 
 featured_image: grandcanyon.jpg
