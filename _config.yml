@@ -30,12 +30,14 @@ sass:
 
 # Site navigation - each item must have a title and a url.
 navigation:
-  - text: Front Page 
+  - text: The Latest
     url: /
-  - text: The Property
+  - text: The Story
     url: /about/
   - text: The Team 
     url: /team/
+  - text: The Gallery
+    url: /gallery/ 
 
 # Author information - author info at the bottom of the post
 author_name: "Dionysius Buhler"
@@ -55,7 +57,7 @@ mailchimp_url: ""
 twitter_username: "dionysiusbuhler"
 facebook_username: "keithedbuhler"
 github_username: "keithbuhler"
-instagram_username: "keithedbuhler"
+instagram_username: "dionysiusbuhler"
 linkedin_username: "keithedbuhler"
 
 # http://jekyllrb.com/docs/pagination/

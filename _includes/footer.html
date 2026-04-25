@@ -9,3 +9,37 @@
             &copy; {{ site.time | date: '%Y' }} <a href="{{ site.baseurl }}/">Dionysius "Keith" Buhler</a> <br />This site is hosted by Github in plain text, and transformed via Jekyll into html, using the<a target="_blank" href="https://justgoodthemes.com/">JustGoodThemes</a> vibe. 
         </div><a href="#page" id="top-link" class="top-link"><i class="fa fa-chevron-up" aria-hidden="true"></i><span class="screen-reader-text">Back to the top</span></a>
     </div></footer>
+
+
+<div id="secret-gift" style="display: none; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); background: #ffffff; padding: 40px; box-shadow: 0 10px 30px rgba(0,0,0,0.4); border-radius: 8px; z-index: 9999; text-align: center; max-width: 400px; width: 90%;">
+  <h3 style="margin-top: 0; color: #333;">✨ You found a secret!</h3>
+  <div><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRuejUyaGZiYTJ3Nno4M2dmYWpmb3dqdjFoamlndWJ3d2h1cDAwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Cce6hv9NcFTW/giphy.gif"></div>
+  <blockquote style="font-size: 1.2em; font-style: italic; color: #555; border-left: none; padding: 0;">
+    "There are far, far better things ahead than any we leave behind."
+  </blockquote>
+  <p style="text-align: right; margin-bottom: 20px; color: #777;">— C.S. Lewis</p>
+  <button onclick="document.getElementById('secret-gift').style.display='none'" style="padding: 8px 16px; cursor: pointer; background: #333; color: #fff; border: none; border-radius: 4px;">Close</button>
+</div>
+
+<script>
+  const secretWord = "orca";
+  let keyBuffer = "";
+
+  document.addEventListener("keydown", (e) => {
+    // Only capture single alphabet characters to avoid tracking Shift/Ctrl keys
+    if (e.key.length === 1 && e.key.match(/[a-z]/i)) {
+      keyBuffer += e.key.toLowerCase();
+      
+      // Keep the buffer exactly as long as our secret word
+      if (keyBuffer.length > secretWord.length) {
+        keyBuffer = keyBuffer.slice(-secretWord.length);
+      }
+      
+      // If the buffer matches the secret word, show the pop-up
+      if (keyBuffer === secretWord) {
+        document.getElementById('secret-gift').style.display = 'block';
+        keyBuffer = ""; // Reset the buffer
+      }
+    }
+  });
+</script>
