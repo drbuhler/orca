@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Local vibes"
+title:  "Preparation progress"
 date:   2026-04-24
 featured_image: morro-bay-pano.jpg
 tags: [Demo]
