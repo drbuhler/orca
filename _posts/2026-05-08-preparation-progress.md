@@ -2,7 +2,7 @@
 layout: post
 title:  "Submittal"
 date:   2026-05-08
-featured_image: demo-5.jpg
+featured_image: https://github.com/keithbuhler/orca/blob/master/images%2Fposts%2F48-498%20Orcas-48.jpg
 tags: [Demo]
 ---
 
