@@ -2,7 +2,7 @@
 layout: post
 title:  "Window shopping"
 date:   2026-05-15
-featured_image: demo-5.jpg
+featured_image: 46-498-Orcas-46.jpg
 tags: [Rehab]
 ---
 

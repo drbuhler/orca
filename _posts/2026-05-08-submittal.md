@@ -2,7 +2,7 @@
 layout: post
 title:  "Submittal"
 date:   2026-05-08
-featured_image: https://github.com/keithbuhler/orca/blob/master/images%2Fposts%2F48-498%20Orcas-48.jpg
+featured_image: 48-498-Orcas-48.jpg
 tags: [Demo]
 ---
 
@@ -10,7 +10,7 @@ Plans were submitted! Glory to God!
 
 We did lots more demo. It's amazing how stuff "grows" when you pull it out of its hiding place. 
 
-We are grateful for our architect Neil Miller, our engineer Chris Murphy and his teammate Brian, for some truly awe-inspiring plans. 
+We are grateful for our architect Neil and Brian, our engineer Chris Murphy and his team for some truly awe-inspiring plans. 
 
 They have gone to the city for initial review and comments which means that we are mere weeks away from truly breaking ground. 
 
