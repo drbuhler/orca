@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Work where you must; live in Morro Bay"
-date:   2026-05-24
+date:   2026-05-22
 featured_image: 
 tags: [Morro Bay]
 ---
