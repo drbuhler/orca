@@ -6,7 +6,7 @@ featured_image: 46-498-Orcas-46.jpg
 tags: [Morro Bay]
 ---
 
-For decades, a standard California real estate story goes like this: buy in Los Angeles or San Francisco and deal with the chaos, traffic, and smog -- and vacation on the coast or in the mountains. 
+A standard California real estate story goes like this: buy in Los Angeles or San Francisco and deal with the chaos, traffic, and smog -- and vacation on the coast or in the mountains. 
 
 But since Covid, remote work and a desire for a higher quality of life have rewritten the map. 
 
