@@ -9,7 +9,7 @@ tags: [Rehab]
 
 I spent a few days on site last week. Got to hang out with the carpenters and carry some heavy stuff!
 
-[photo](/july_31_2026.jpeg)
+[photo](/images/july_31_2026.jpeg)
 
 ## Framing prep 
 
