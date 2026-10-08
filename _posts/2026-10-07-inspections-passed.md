@@ -17,6 +17,8 @@ We passed our mechanical, electrical, plumbing, and insulation inspections. Thes
 
 {% include image_full.html imageurl="/images/posts/2026-10-orcas-rough-in.jpg" title="Open wall framing at dusk with drain line, water supply lines, wiring, and outlet boxes roughed in, Morro Bay lights through the windows" %}
 
+{% include image_full.html imageurl="/images/posts/2026-10-orcas-insulation-wide.jpg" title="Wide view of the corner-window room with insulation batts in the walls and ceiling, a worker on the left" %}
+
 {% include image_full.html imageurl="/images/posts/2026-10-orcas-insulation.jpg" title="Insulated ceiling and walls with OSB sheathing in the corner-window room, ocean view beyond" %}
 
 ## Next up: drywall
