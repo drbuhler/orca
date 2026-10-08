@@ -7,8 +7,6 @@ featured_image_alt: "Insulated walls and ceiling in the corner-window room at 49
 tags: [Rehab]
 ---
 
-<!-- DRAFT: not approved for publish. -->
-
 It's been a while since my last update. Here's where things stand at 498 Orcas.
 
 ## Inspections passed
