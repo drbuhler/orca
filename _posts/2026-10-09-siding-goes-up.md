@@ -2,8 +2,8 @@
 layout: post
 title:  "Siding Goes Up"
 date:   2026-10-09
-featured_image: 2026-10-orcas-drywall-upstairs-ocean-view.jpg
-featured_image_alt: "Drywall going up in the upstairs ocean-view room"
+featured_image: 2026-10-orcas-bathroom-drywall.jpg
+featured_image_alt: "Drywall and moisture-resistant board hung in a bathroom, ready for mud and tape"
 tags: [Rehab]
 ---
 
@@ -13,7 +13,7 @@ The walls are closed and the outside is finally starting to look like a finished
 
 The drywall is hung, and it passed the screw inspection on Monday, October 5.
 
-{% include image_full.html imageurl="/images/posts/2026-10-orcas-drywall-upstairs-ocean-view.jpg" title="Drywall going up in the upstairs ocean-view room" %}
+<figure class="full-width"><img src="/images/posts/2026-10-orcas-bathroom-drywall.jpg" alt="Drywall and moisture-resistant board hung in a bathroom, ready for mud and tape" style="max-width:614px;width:100%;display:block;margin:0 auto;" /></figure>
 
 ## Siding starts
 
