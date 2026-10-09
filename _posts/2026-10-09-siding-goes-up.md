@@ -21,7 +21,7 @@ This is the part the neighbors will notice. For a long time the outside of this 
 
 The siding crew got to work this week. Before siding could go on, Logan finished the fascia boards around the top of the house. That was the last of the carpentry.
 
-Half the house is getting HardieBacker tile-style siding. The other half gets stucco, which starts next.
+Half the house is getting siding. The other half gets stucco, which starts next.
 
 ## Two crews at once
 
