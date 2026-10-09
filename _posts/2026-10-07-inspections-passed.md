@@ -25,8 +25,4 @@ The drywall screw inspection is next. Once the drywall is hung, the inspector ch
 
 <figure class="full-width"><img src="/images/posts/2026-10-orcas-drywall-delivery.jpg" alt="Drywall being unloaded from a delivery truck by forklift" style="max-width:320px;width:100%;display:block;margin:0 auto;" /></figure>
 
-## Schedule
-
-To be honest, we're running about a week behind schedule. We'll keep you posted as we close the gap.
-
-Thanks for following along!
+We'll keep you posted as the drywall goes up. Thanks for following along!
