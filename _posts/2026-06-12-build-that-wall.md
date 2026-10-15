@@ -8,7 +8,7 @@ tags: [Rehab]
 
 We cleared some permitting hurdles, inspections, and budget redesigns this week. 
 
-We fine tuned the bathroom sizes, which affects the interior wall placement. Also, architectual design and permitting costs have 
+We fine tuned the bathroom sizes, which affects the interior wall placement. Also, architectural design and permitting costs have 
 
 One other piece of good news: the scaffolding company has been renting out a massive slice of inventory for over a year. I was sure they want their scaffold back! 
 
