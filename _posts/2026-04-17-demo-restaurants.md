@@ -27,7 +27,7 @@ Morro Bay’s culinary scene punches way above its weight class!
 
 This is a working fishing village, don't forget. 
 
-So the seafood on your plate was likely swimming in the Pacific just hours earlier. You can go to Tognazzini's Dockside or the the Galley Seafood Grill for real sea food, fish and chips, and more. 
+So the seafood on your plate was likely swimming in the Pacific just hours earlier. You can go to Tognazzini's Dockside or the Galley Seafood Grill for real sea food, fish and chips, and more. 
 
 But it’s not just about the seafood. There's wine in Paso Robles and Ednay Valley to the south. 
 

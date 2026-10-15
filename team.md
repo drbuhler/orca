@@ -15,7 +15,7 @@ Orca Real Estate LLC is a project of many hands. Our successful completion of th
 * Swift Capital: hard money and construction lender
 * She Helps Homeowners: realty, strategy, and marketing
 * Exceed: architectural 
-* Morro Bay City: oversight, acocuntability, and permitting
+* Morro Bay City: oversight, accountability, and permitting
 * Abundant Life Capital: limited partner
 
 * Many cool neighbors: cheerleading!

@@ -23,9 +23,9 @@ Buyers can have the dramatic coastal views, the walkable waterfront, the mild Me
 
 As more people discover this hidden coastal haven, the window to get in on the ground floor of Morro Bay's real estate renaissance is closing.
 
-Building permits are hard to come by. Blank lots are expenesive and starting from scratch, even if you could afford the time, is expensive in cost as well. 
+Building permits are hard to come by. Blank lots are expensive and starting from scratch, even if you could afford the time, is expensive in cost as well. 
 
-Our 498 Orcas St house offers a rock-solid home (with a foudnation built to commercial grade specifications) with a modern vibe and a breathtaking coastal vista. 
+Our 498 Orcas St house offers a rock-solid home (with a foundation built to commercial grade specifications) with a modern vibe and a breathtaking coastal vista. 
 
 This is someone's ticket to moving in to one of the best spots in town. 
 
