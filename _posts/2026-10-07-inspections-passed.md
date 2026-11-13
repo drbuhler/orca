@@ -9,8 +9,6 @@ tags: [Rehab]
 
 It's been a while since my last update. Here's where things stand at 498 Orcas.
 
-## Inspections passed
-
 We passed our mechanical, electrical, plumbing, and insulation inspections. These aren't the pretty milestones, but they're the ones you can't skip. Everything behind the walls gets checked and signed off before the walls close up.
 
 {% include image_full.html imageurl="/images/posts/2026-10-orcas-rough-in.jpg" title="Open wall framing at dusk with drain line, water supply lines, wiring, and outlet boxes roughed in, Morro Bay lights through the windows" %}
