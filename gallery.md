@@ -36,6 +36,14 @@ featured_image: grandcanyon.jpg
 }
 </style>
 
+<h2>Fall 2026</h2>
+<div class="orcas-gallery">
+  {% assign fall = "2026-10-orcas-rough-in.jpg,2026-10-orcas-insulation-wide.jpg,2026-10-orcas-bathroom-drywall.jpg,2026-10-orcas-drywall-corner-window.jpg,2026-10-orcas-drywall-upstairs-ocean-view.jpg,2026-10-orcas-front-scaffold.jpg,2026-10-orcas-interior-white-walls.jpg,2026-10-orcas-shower-backer-board.jpg,2026-11-orcas-kitchen-cabinets.jpg,2026-11-orcas-living-room-flooring.jpg,2026-11-orcas-purple-door-paint.jpg,2026-11-orcas-landscaping.jpg" | split: "," %}
+  {% for file in fall %}
+    <img src="{{ site.baseurl }}/images/posts/{{ file }}" alt="498 Orcas Street Renovation in Morro Bay - Fall 2026" loading="lazy">
+  {% endfor %}
+</div>
+
 <h2>Summer 2026</h2>
 <div class="orcas-gallery">
   {% assign summer = "orca-exterior-36-36.jpg,orca-exterior-38-38.jpg,orca-exterior-40-40.jpg,orca-exterior-41-41.jpg,orca-exterior-42-42.jpg,orca-exterior-44-44.jpg,orca-exterior-46-46.jpg,orca-exterior-48-48.jpg,lumber-delivery.jpg,siding-scaffold.jpg,sun-scaffold.jpg,progress-street-view.jpg,interior-demo-bath-1.jpg,interior-demo-bath-2.jpg" | split: "," %}
