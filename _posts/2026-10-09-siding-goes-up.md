@@ -13,8 +13,6 @@ The walls are closed and the outside is finally starting to look like a finished
 
 The drywall is hung, and it passed the screw inspection on Monday, October 5.
 
-<figure class="full-width"><img src="/images/posts/2026-10-orcas-bathroom-drywall.jpg" alt="Drywall and moisture-resistant board hung in a bathroom, ready for mud and tape" style="max-width:614px;width:100%;display:block;margin:0 auto;" /></figure>
-
 ## Siding starts
 
 This is the part the neighbors will notice. For a long time the outside of this house has been scaffolding, plywood, and house wrap. Now it gets a real skin.
