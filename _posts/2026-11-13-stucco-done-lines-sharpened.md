@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Stucco Done, Lines Sharpened"
-date:   2026-11-20
+date:   2026-11-13
 tags: [Rehab]
 ---
 
