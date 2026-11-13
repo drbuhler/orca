@@ -15,6 +15,10 @@ We're in the final push at 498 Orcas.
 
 <!-- PHOTO PLACEHOLDER: flooring | caption: Flooring, nearly done. -->
 
+<figure class="full-width"><img src="/images/posts/2026-11-orcas-stairs-white-oak-cap.jpg" alt="Staircase with plywood treads and a white pony wall topped with a pale white oak cap, looking up toward tall windows" style="max-width:480px;width:100%;display:block;margin:0 auto;" /><figcaption>The stairs, with a new white oak cap on the pony wall.</figcaption></figure>
+
+<figure class="full-width"><img src="/images/posts/2026-11-orcas-doors-clear-coat.jpg" alt="New wood-grain door with a clear coat, standing open in its frame, with horizontal grain lines and a brass deadbolt" style="max-width:450px;width:100%;display:block;margin:0 auto;" /><figcaption>Doors.</figcaption></figure>
+
 **The chandelier is going in.**
 
 <!-- PHOTO PLACEHOLDER: chandelier | caption: Putting in the chandelier. -->
