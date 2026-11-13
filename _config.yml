@@ -32,6 +32,8 @@ sass:
 navigation:
   - text: The Latest
     url: /
+  - text: All Posts
+    url: /all-posts/
   - text: The Story
     url: /about/
   - text: The Team 
