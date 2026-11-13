@@ -11,8 +11,6 @@ Last week the outside got its paint. This week the work moved indoors.
 
 The interior is being painted now, and the rooms are already changing. White walls, skylights overhead, and the light is doing what we hoped it would.
 
-{% include image_full.html imageurl="/images/posts/2026-10-orcas-interior-white-walls.jpg" title="Interior room with painted walls, skylights in the ceiling, and windows along the back wall" caption="Interior paint going on. White walls, skylights, and a lot of light." %}
-
 {% include image_full.html imageurl="/images/posts/2026-10-orcas-front-scaffold.jpg" title="Front of the house with scaffolding standing in front of the upper floors" caption="The front of the house, scaffolding still up." %}
 
 {% include image_full.html imageurl="/images/posts/2026-10-orcas-scaffold-paint-buckets.jpg" title="Paint buckets and a roller tray on a scaffold platform, with a person resting nearby and a dog in the foreground" caption="Paint buckets, a quiet moment on the scaffold, and a visitor." %}

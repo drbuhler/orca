@@ -13,8 +13,6 @@ Quick update from 498 Orcas: we passed the drywall screw inspection.
 
 With the drywall hung and signed off, the crew can move on to taping, mudding, and finishing. That's when the rooms finally start to look like rooms again.
 
-{% include image_full.html imageurl="/images/posts/2026-10-orcas-drywall-corner-window.jpg" title="Drywall hung in the corner-window room, with hills and Morro Bay homes through the big corner window" %}
-
 {% include image_full.html imageurl="/images/posts/2026-10-orcas-drywall-front-windows.jpg" title="Drywall hung in a front room with two wide windows, drywall scraps on the floor" %}
 
 More soon. Thanks for following along!
