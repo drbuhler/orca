@@ -5,7 +5,7 @@ date:   2026-11-28
 tags: [Rehab]
 ---
 
-We're in the final push at 498 Orcas. The city final inspection passed on Nov 25, and the gutters went in the same day.
+We're in the final push at 498 Orcas. The gutters went in on Nov 25.
 
 {% include image_full.html imageurl="/images/posts/2026-11-orcas-paperwork-on-site.jpg" title="A person in a dark puffer jacket leaning over a workbench outside, signing a stack of papers" caption="Going over the paperwork on site." %}
 
