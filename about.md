@@ -53,7 +53,7 @@ With the right partners, the right mindset, the right contractors, the right tim
 
 Earn the trust of the city and neighbors. Align financial incentives of backers with the incentive of the neighborhood to get this precious lot back into the hands of another homeowner. 
 
-Morro Bay only *has* 5000 places to live. This one home is .0002% of the entire housing market. We think the buyers will come. 
+Morro Bay only *has* 5000 places to live. This one home is 0.02% of the entire housing market. We think the buyers will come. 
 
 We are excited and blessed to embark on this journey and share the love with our partners, contractors, realtors, and neighbors. 
 
